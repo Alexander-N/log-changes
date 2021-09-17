@@ -16,7 +16,7 @@ For single files use
 ./log_changes.sh FILE
 ```
 
-If you have a single file which contains all the paths to the files you want to
+If you have a file which contains all the paths to the files you want to
 watch use
 ```bash
 ./log_changes_from_file_list.sh FILE_LIST
